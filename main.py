@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup as S
 from datetime import datetime
 from telebot import TeleBot
 
-token = "7536425607:AAEOgeibLBHSdwfTPCnIUNIAAWuC2wQfC2k" # توكنك
+token = "6626348693:AAFdq4NLkdo4jYu34yh96o3J90chJTPLZuQ" # توكنك
 id = "1451542769" # ايديك
 
 def usernames():
